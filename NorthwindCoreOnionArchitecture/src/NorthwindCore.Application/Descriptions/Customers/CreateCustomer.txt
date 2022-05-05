@@ -1,0 +1,136 @@
+
+ Request:
+ {
+  "companyName": "",
+  "contactName": "",
+  "contactTitle": "",
+  "address": "",
+  "city": "",
+  "region": "",
+  "postalCode": "",
+  "country": "",
+  "phone": "",
+  "fax": ""
+ }
+
+ Response:
+ {
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-9f5158ceb029524bb1950a9feebc7d51-5fb3772f7312e946-00",
+  "errors": 
+   {
+    "Fax": 
+    [
+      "Please enter Fax."
+    ],
+    "City": 
+    [
+      "Please enter City."
+    ],
+    "Phone": 
+    [
+      "Please enter Phone."
+    ],
+    "Region": 
+    [
+      "Please enter Region."
+    ],
+    "Address": 
+    [
+      "Please enter Address."
+    ],
+    "Country": 
+    [
+      "Please enter Country."
+    ],
+    "PostalCode": 
+    [
+      "Please enter PostalCode."
+    ],
+    "CompanyName": 
+    [
+      "Please enter CompanyName."
+    ],
+    "ContactName": 
+    [
+      "Please enter ContactName."
+    ],
+    "ContactTitle": 
+    [
+      "Please enter ContactTitle."
+    ]
+  }
+}
+
+
+
+ Request:
+ {
+  "companyName": "string",
+  "contactName": "string",
+  "contactTitle": "string",
+  "address": "string",
+  "city": "string",
+  "region": "123456789123456789",
+  "postalCode": "string",
+  "country": "string",
+  "phone": "string",
+  "fax": "string1234"
+}
+
+Response:
+{
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-ae66e5dbd0425f4598e01eb0efb6e94c-e8254c3a379ef546-00",
+  "errors": 
+  {
+    "Fax": 
+    [
+      "Fax length [10,24]."
+    ],
+    "Phone": 
+    [
+      "Phone length [10,24]."
+    ],
+    "Region": 
+    [
+      "Region length [2,15]."
+    ]
+  }
+}
+
+
+201:Undocumented
+ 
+Request:
+{
+  "companyName": "companyName1",
+  "contactName": "contactName1",
+  "contactTitle": "contactTitle1",
+  "address": "address1",
+  "city": "city1",
+  "region": "region1",
+  "postalCode": "455446",
+  "country": "country1",
+  "phone": "phone123456",
+  "fax": "fax1234564"
+}
+
+Response:
+{
+  "customerId": 101,
+  "companyName": "companyName1",
+  "contactName": "contactName1",
+  "contactTitle": "contactTitle1",
+  "address": "address1",
+  "city": "city1",
+  "region": "region1",
+  "postalCode": "455446",
+  "country": "country1",
+  "phone": "phone123456",
+  "fax": "fax1234564"
+}         

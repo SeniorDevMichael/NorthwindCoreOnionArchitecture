@@ -1,0 +1,37 @@
+﻿Request:
+{
+  "customerId": 101,
+  "employeeId": 1,
+  "orderDate": "2022-01-06T09:14:19.551Z",
+  "requiredDate": "2022-01-06T09:14:19.551Z",
+  "shippedDate": "2022-01-06T09:14:19.551Z",
+  "shipVia": 2,
+  "freight": 40,
+  "shipName": "Ship1",
+  "shipAddress": "shipAddress1",
+  "shipCity": "Baku",
+  "shipRegion": "Aze",
+  "shipPostalCode": "2524-45",
+  "shipCountry": "Azerbaycan"
+}
+
+Response:
+{
+  "orderId": 11078,
+  "customerId": 101,
+  "employeeId": 1,
+  "orderDate": "2022-01-06T09:14:19.551Z",
+  "requiredDate": "2022-01-06T09:14:19.551Z",
+  "shippedDate": "2022-01-06T09:14:19.551Z",
+  "shipVia": 2,
+  "freight": 40,
+  "shipName": "Ship1",
+  "shipAddress": "shipAddress1",
+  "shipCity": "Baku",
+  "shipRegion": "Aze",
+  "shipPostalCode": "2524-45",
+  "shipCountry": "Azerbaycan",
+  "employee": null,
+  "shipViaNavigation": null,
+  "orderDetails": []
+}

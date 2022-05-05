@@ -1,0 +1,31 @@
+﻿ Request:
+ {
+  "companyName": "companyName1",
+  "contactName": "contactName1",
+  "contactTitle": "contactTitle1",
+  "address": "address1",
+  "city": "city1",
+  "region": "region1",
+  "postalCode": "43434364",
+  "country": "country1",
+  "phone": "phone1",
+  "fax": "fax1",
+  "homePage": "homePage1"
+ }                 
+ 
+ Response:
+ {
+  "supplierId": 31,
+  "companyName": "companyName1",
+  "contactName": "contactName1",
+  "contactTitle": "contactTitle1",
+  "address": "address1",
+  "city": "city1",
+  "region": "region1",
+  "postalCode": "43434364",
+  "country": "country1",
+  "phone": "phone1",
+  "fax": "fax1",
+  "homePage": "homePage1",
+  "products": []
+}

@@ -1,0 +1,10 @@
+﻿Request:
+{
+  "regionDescription": "Quzey"
+}
+ 
+Response:
+{
+  "regionId": 6,
+  "regionDescription": "Quzey"
+}

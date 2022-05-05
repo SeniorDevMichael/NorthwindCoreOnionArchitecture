@@ -1,0 +1,29 @@
+﻿Request:
+ {
+  "productName": "productName1",
+  "supplierId": 12,
+  "categoryId": 2,
+  "quantityPerUnit": "13 boxes",
+  "unitPrice": 11,
+  "unitsInStock": 42,
+  "unitsOnOrder": 21,
+  "reorderLevel": 14,
+  "discontinued": true
+}
+
+ Response:
+ {
+   "productId": 82,
+   "productName": "productName1",
+   "supplierId": 12,
+   "categoryId": 2,
+   "quantityPerUnit": "13 boxes",
+   "unitPrice": 11,
+   "unitsInStock": 42,
+   "unitsOnOrder": 21,
+   "reorderLevel": 14,
+   "discontinued": true,
+   "category": null,
+   "supplier": null,
+   "orderDetails": []
+ }

@@ -1,0 +1,12 @@
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\bin\Debug\net5.0\NorhtwindCore.Infrastructure.deps.json
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\bin\Debug\net5.0\NorhtwindCore.Infrastructure.dll
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\bin\Debug\net5.0\ref\NorhtwindCore.Infrastructure.dll
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\bin\Debug\net5.0\NorhtwindCore.Infrastructure.pdb
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.csproj.AssemblyReference.cache
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.AssemblyInfoInputs.cache
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.AssemblyInfo.cs
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.dll
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\ref\NorhtwindCore.Infrastructure.dll
+D:\Developer\API\Projects\Real\NorthwindCoreOnionArchitecture\src\NorhtwindCore.Infrastructure\obj\Debug\net5.0\NorhtwindCore.Infrastructure.pdb

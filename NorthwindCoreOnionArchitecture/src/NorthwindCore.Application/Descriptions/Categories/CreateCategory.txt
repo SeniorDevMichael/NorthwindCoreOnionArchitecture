@@ -1,0 +1,17 @@
+
+ Request:
+ {
+  "categoryName": "category1",
+  "description": "description1",
+  "picture": ""
+ }
+
+ Response:
+ {
+  "categoryId": 9,
+  "categoryName": "category1",
+  "description": "description1",
+  "picture": "",
+  "products": []
+ }
+

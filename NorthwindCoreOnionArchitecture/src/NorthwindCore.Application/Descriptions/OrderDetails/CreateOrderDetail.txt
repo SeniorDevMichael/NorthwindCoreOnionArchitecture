@@ -1,0 +1,8 @@
+﻿Request:
+{
+  "orderId": 10266,
+  "productId": 10,
+  "unitPrice": 24,
+  "quantity": 50,
+  "discount": 0.5
+}

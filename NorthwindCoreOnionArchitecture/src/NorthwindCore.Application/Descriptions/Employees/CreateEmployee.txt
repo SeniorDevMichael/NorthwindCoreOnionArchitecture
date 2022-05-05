@@ -1,0 +1,80 @@
+﻿Request:
+{
+  "lastName": "Karimli",
+  "firstName": "Samir",
+  "title": "Data Analitik",
+  "titleOfCourtesy": "DA",
+  "birthDate": "2022-01-06T08:34:33.447Z",
+  "hireDate": "2022-01-06T08:34:33.447Z",
+  "address": "Baki, Azadliq",
+  "city": "Baki",
+  "region": "Quzey",
+  "postalCode": "182",
+  "country": "Azərbaycan",
+  "homePhone": "68464446",
+  "extension": "8648",
+  "photo": "",
+  "notes": "dgsa",
+  "photoPath": "dfhdfhfh"
+}
+
+Response:
+{
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-f9f2a768f170db49980b991526bedfaf-f9cdf35bf0f54f45-00",
+  "errors": 
+  {
+    "TitleOfCourtesy": 
+    [
+      "TitleOfCourtesy length [3,25]."
+    ]
+  }
+}
+
+*********************************************************************************************************
+Request:
+{
+  "lastName": "Karimli",
+  "firstName": "Samir",
+  "title": "Data Analitik",
+  "titleOfCourtesy": "DAD",
+  "birthDate": "2022-01-06T08:34:33.447Z",
+  "hireDate": "2022-01-06T08:34:33.447Z",
+  "address": "Baki, Azadliq",
+  "city": "Baki",
+  "region": "Quzey",
+  "postalCode": "182",
+  "country": "Azərbaycan",
+  "homePhone": "68464446",
+  "extension": "8648",
+  "photo": "",
+  "notes": "dgsa",
+  "photoPath": "dfhdfhfh"
+}                
+ 
+Response:
+{
+  "employeeId": 12,
+  "lastName": "Karimli",
+  "firstName": "Samir",
+  "title": "Data Analitik",
+  "titleOfCourtesy": "DAD",
+  "birthDate": "2022-01-06T08:34:33.447Z",
+  "hireDate": "2022-01-06T08:34:33.447Z",
+  "address": "Baki, Azadliq",
+  "city": "Baki",
+  "region": "Quzey",
+  "postalCode": "182",
+  "country": "Azərbaycan",
+  "homePhone": "68464446",
+  "extension": "8648",
+  "photo": "",
+  "notes": "dgsa",
+  "photoPath": "dfhdfhfh",
+  "orders": []
+}
+
+***************************************************************************************************************
+

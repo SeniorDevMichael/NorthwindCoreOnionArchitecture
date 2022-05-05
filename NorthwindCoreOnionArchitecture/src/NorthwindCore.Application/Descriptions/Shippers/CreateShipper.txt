@@ -1,0 +1,42 @@
+﻿ Request:
+ {
+  "companyName": "",
+  "phone": ""
+ } 
+ 
+ Response:
+ {
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-75b1a36141c0aa4eb3bfdf571b3b954f-60f209a2a36d584f-00",
+  "errors": 
+  {
+    "Phone": 
+    [
+      "Please enter Phone.",
+      "Phone length [2,24]."
+    ],
+    "CompanyName": 
+    [
+      "Please enter CompanyName.",
+      "CompanyName length [2,40]."
+    ]
+  }
+}
+
+*********************************************************************************************
+
+Request:
+{
+  "companyName": "Company1",
+  "phone": "(055)-856-44-15"
+}
+
+Response:
+{
+  "shipperId": 5,
+  "companyName": "Company1",
+  "phone": "(055)-856-44-15",
+  "orders": []
+}
