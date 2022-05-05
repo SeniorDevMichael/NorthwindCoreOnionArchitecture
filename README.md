@@ -1,7 +1,7 @@
 # NorthwindCoreOnionArchitecture
 *************************************************************
 # 1.NorthwindCore.Domain(Project)
-  # 1.1.Entites(Models)
+  # 1.1.Entities(Models)
   # 1.2.Database_Script(SQL)
 
 *************************************************************
